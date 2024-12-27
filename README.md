@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋, I'm Mariam Ishak✨
 
-<!--
-**MariamIshak/MariamIshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Front-End Developer** specialized in  **Angular**, and **React** Frameworks.
+I love creating modern, responsive websites and applications that solve real-world problems.
 
-Here are some ideas to get you started:
+🌟 **What I Do**:
+- Craft **user-friendly interfaces** using HTML5, CSS3, and JavaScript.
+- Develop scalable front-end architectures with **Angular**.
+- Work with back-end technologies like **Node.js** and **MongoDB**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m currently learning**:
+ - Advanced **TypeScript** for scalable front-end development.
+ - **Next.js** for server-side rendering and static site generation.
+
+ 📫 **How to reach me**: 
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ishak-148004252)
