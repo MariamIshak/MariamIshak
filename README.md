@@ -14,4 +14,5 @@ I love creating modern, responsive websites and applications that solve real-wor
 
  📫 **How to reach me**: 
 # Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ishak-148004252)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-ishak-148004252)
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamishakgebril@gmail.com)
