@@ -17,7 +17,7 @@ I love creating modern, responsive websites and applications that solve real-wor
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mariam-ishak-148004252)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mariamishakgebril@gmail.com)
 
-# My Tech Stack
+# My Tech Stack ✨👩‍💻
 
 ## Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular)](https://skillicons.dev)
@@ -25,7 +25,10 @@ I love creating modern, responsive websites and applications that solve real-wor
 ## Backend Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
-
 ## Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+
+### Interesting stats
+![Mariam's stats](https://github-readme-stats.vercel.app/api?username=MariamIshak&show_icons=true)
 
