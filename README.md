@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Mariam Ishak✨
 
-I'm a passionate **Front-End Developer** specialized in  **Angular**, and **React** Frameworks.
+I'm a passionate **Front-End Developer** specialized in **React**, and **Angular** Frameworks.
 I love creating modern, responsive websites and applications that solve real-world problems.
 
 🌟 **What I Do**:
 - Craft **user-friendly interfaces** using HTML5, CSS3, and JavaScript.
-- Develop scalable front-end architectures with **Angular**.
+- Develop scalable front-end architectures with **React**.
 - Work with back-end technologies like **Node.js** and **MongoDB**.
 
 🌱 **I’m currently learning**:
