@@ -20,7 +20,7 @@ I love creating modern, responsive websites and applications that solve real-wor
 # My Tech Stack ✨👩‍💻
 
 ## Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,React)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular,react)](https://skillicons.dev)
 
 ## Backend Development
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
